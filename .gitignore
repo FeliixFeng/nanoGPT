@@ -10,3 +10,7 @@ __pycache__/
 input.txt
 env/
 venv/
+.venv/
+# 训练输出目录（checkpoint 已被 *.pt 挡住，这里连目录一起挡）
+out-*/
+out/
