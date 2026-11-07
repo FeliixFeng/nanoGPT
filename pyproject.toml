@@ -8,6 +8,7 @@ dependencies = [
     "torch>=2.15.0",
     "numpy>=2.5.4",
     "requests>=2.34.2",
+    "tiktoken>=0.14.0",
 ]
 
 # 国内直连清华源，以后 uv sync / uv add 不用每次加 -i
