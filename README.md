@@ -4,6 +4,7 @@
 > 个人学习用的 fork，源仓库 [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)（MIT）。
 > 用途：在 MacBook（MPS）上跑通 char-level 训练，边训边读代码。
 > 自己的练习与改动集中在 `practice/`，原始文件尽量不动。
+> **练习进度与记录：[practice/README.md](practice/README.md)**
 
 ![nanoGPT](assets/nanogpt.jpg)
 
